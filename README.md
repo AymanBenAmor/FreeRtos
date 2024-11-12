@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project demonstrates the use of FreeRTOS on an STM32 microcontroller, including the creation of multiple tasks for UART communication. Each task sends a specific message over UART to the host and toggles a GPIO pin to show task activity. The project involves three tasks:
+This project demonstrates the use of FreeRTOS on an STM32 microcontroller STM32-F407 Discovery, including the creation of multiple tasks for UART communication. Each task sends a specific message over UART to the host and toggles a GPIO pin to show task activity. The project involves three tasks:
 
 1. **Default Task**: Sends a "hello from default task" message via UART every 100 ms.
 2. **Task 2**: Sends a "hello from task 2" message via UART every 500 ms.

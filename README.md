@@ -107,3 +107,5 @@ This project is licensed under the STMicroelectronics license. Please see the he
 - STM32 HAL drivers for hardware abstraction
 - FreeRTOS for real-time operating system task management
 - STM32CubeMX/STM32CubeIDE for project configuration
+
+![Visitor Count](https://hits.dwyl.com/username/repo.svg)

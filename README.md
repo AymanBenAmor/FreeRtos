@@ -108,7 +108,8 @@ This project is licensed under the STMicroelectronics license. Please see the he
 - FreeRTOS for real-time operating system task management
 - STM32CubeMX/STM32CubeIDE for project configuration
 
-[![Watch the video](homepage.jpg)]
+[![Watch the video](homepage.jpg)](https://drive.google.com/file/d/1TByyJViEFk3Ir35nVbuf0fx1i7I-YgFn/view?usp=sharing)
+
 
 ---
 

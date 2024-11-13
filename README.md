@@ -108,5 +108,6 @@ This project is licensed under the STMicroelectronics license. Please see the he
 - FreeRTOS for real-time operating system task management
 - STM32CubeMX/STM32CubeIDE for project configuration
 
-![3D Character Animation](https://github.com/AymanBenAmor/FreeRtos/blob/main/tenor.gif)
+![3D Character Animation](https://raw.githubusercontent.com/AymanBenAmor/FreeRtos/main/tenor.gif)
+
 

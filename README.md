@@ -1,5 +1,3 @@
-
-```markdown
 # FreeRTOS Project: STM32 UART Communication and Task Scheduling
 
 ## Project Overview
@@ -25,17 +23,7 @@ The project also uses GPIO pins to signal the activity of each task.
 - STM32CubeMX or STM32CubeIDE for configuration and project generation
 - FreeRTOS library included in the STM32CubeMX/STM32CubeIDE configuration
 
-## Directory Structure
 
-```
-/src
-  |-- main.c          # Main program file with FreeRTOS task definitions
-  |-- stm32f4xx_hal.c # STM32 HAL initialization and configuration
-  |-- stm32f4xx_hal.h # STM32 HAL header file
-  |-- usbd_cdc_if.c   # USB communication interface for the USB device
-  |-- usb_device.c    # USB device initialization
-  |-- FreeRTOSConfig.h # FreeRTOS configuration
-```
 
 ## Key Functions
 
@@ -107,11 +95,5 @@ This project is licensed under the STMicroelectronics license. Please see the he
 - STM32 HAL drivers for hardware abstraction
 - FreeRTOS for real-time operating system task management
 - STM32CubeMX/STM32CubeIDE for project configuration
-
-## Demo Video
-
-Watch the [demo video](https://drive.google.com/file/d/1TByyJViEFk3Ir35nVbuf0fx1i7I-YgFn/view?usp=sharing) of the smart curtain system in action.
-
-[![Watch the video](homepage.jpg)](https://drive.google.com/file/d/1TByyJViEFk3Ir35nVbuf0fx1i7I-YgFn/view?usp=sharing)
 
 ![3D Character Animation](tenor.gif)
